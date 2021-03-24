@@ -1,0 +1,9 @@
+chromeDriver=C:\\Users\\vijay\\eclipse-workspace\\wordpress\\src\\test\\resources\\binaries\\chromedriver.exe
+
+firefoxDriver=C:\Users\vijay\eclipse-workspace\wordpress\Configuration\\geckodriver.exe
+
+URL=http://demosite.center/wordpress/wp-login.php
+
+Excelpath=F:\\sumi\\com.wordpress\\src\\test\\resources\\XLSL\\TestData.xlsx
+
+actual=http://demosite.center/wordpress/wp-admin/
